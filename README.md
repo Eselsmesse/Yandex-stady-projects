@@ -1,5 +1,3 @@
-
-
 <center><h1>Yandex.Praktikum Data Science Projects</h1></center>
 <a href="https://praktikum.yandex.ru/"><img width=100% src="https://miro.medium.com/max/1400/0*uVP0WwEWOtpHs40E.png"></a><br><br>
 <p align=center>
@@ -69,12 +67,12 @@ The model helped to optimize production in order not to launch a plant with unpr
     <td>Machine Learning, Pandas, Matplotlib, Seaborn, Numpy, Sklearn, Math</td>
   </tr>
   <tr>
-    <td><a href="https://github.com/akylson/yandex-praktikum-data-science-projects/tree/main/06-classifying-profitable-plan-for-a-telecom-company">Classifying profitable plan for a telecom company</a></td>
+    <td><a href="">Classifying profitable plan for a telecom company</a></td>
     <td>Built the first Machine Learning model for the classification problem, which finds a suitable tariff</td>
     <td>Machine Learning, Pandas, Numpy, Python, Seaborn</td>
   </tr>
   <tr>
-  <td><a href="https://github.com/akylson/yandex-praktikum-data-science-projects/tree/main/05-patterns-that-determine-the-success-of-game-platforms">Patterns that determine the success of game platforms.</a></td>
+  <td><a href="https://github.com/Eselsmesse/Yandex-stady-projects/tree/master/game_platform_EDA%20-%20grand_project_1">Patterns that determine the success of game platforms.</a></td>
     <td>Using historical data on sales of computer games, user and expert ratings, genres and platforms. I identified patterns that determine the success of a game
 </td>
     <td>Python, Pandas, numpy, Matplotlib, Preprocessing data, Exploratory Data Analysis, Statistics, statistical hypothesis testing, Seaborn, SciPy</td>
@@ -83,12 +81,12 @@ The model helped to optimize production in order not to launch a plant with unpr
   <td><a href="https://github.com/akylson/yandex-praktikum-data-science-projects/tree/main/04-determination-of-a-profitable-plan-for-a-telecom-company">Determination of a profitable plan for a telecom company</a></td>
     <td>Based on the data of the mobile operators customers, i analyzed customer behavior and found the optimal plan for the company.
 </td>
-    <td>Python, Pandas, Matplotlib, numpy, SciPy, Statistics, Statistical Hypothesis testing, Math, Seaborn</td>
+    <td>Python, Pandas, Matplotlib, numpy, SciPy, Statistics, Statistical Hypothesis testing, Seaborn</td>
   </tr>
      <tr>
   <td><a href="https://github.com/akylson/yandex-praktikum-data-science-projects/tree/main/03-real-estate-market-analysis">Real estate market analysis</a></td>
     <td>Using data from the Yandex.Realty service, i determined the market value of real estate objects and typical parameters of apartments.</td>
-    <td>Python, Pandas, Matplotlib, Exploratory Data Analysis, Data Visualization, Preprocessing Data, Math</td>
+    <td>Python, Pandas, Matplotlib, Exploratory Data Analysis, Data Visualization, Preprocessing Data</td>
   </tr>
    <tr>
   <td><a href="https://github.com/akylson/yandex-praktikum-data-science-projects/tree/main/02-research-on-the-reliability-of-borrowers">Research on the reliability of borrowers</a></td>
