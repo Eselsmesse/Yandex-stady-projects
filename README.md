@@ -16,6 +16,7 @@ Presented in the form of iPython Notebooks and readme markdown files. <br>
         <tr>
     <td><a href="здесь будет выпускной проект"> тема не выбрана </a></td>
     <td>описание.</td>
+    <td>сферы деятельности</td>
     <td>библиотеке</td>
   </tr>
       <tr>
