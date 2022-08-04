@@ -88,7 +88,13 @@ The model helped to optimize production in order not to launch a plant with unpr
   </tr>
   <tr>
     <td><a href="https://github.com/Eselsmesse/Yandex-stady-projects/tree/master/01%20-%20Yandex%20music">Yandex Music</a></td>
-    <td>Comparison of musical tastes of Moscow and St. Petersburg. How different is the music that plays on the way to work on Monday morning from the one that plays on Wednesday or at the end of the work week.</td>
+    <td>
+Сравнение Москвы и Петербурга окружено мифами:
+- Москва — мегаполис, подчинённый жёсткому ритму рабочей недели;
+- Петербург — город своеобразной культуры, непохожий на Москву.
+Некоторые мифы отражают действительность. Другие — пустые стереотипы. Бизнес должен отличать первые от вторых, чтобы принимать рациональные решения. На реальных данных Яндекс.Музыки вы проверите данные и сравните поведение пользователей двух столиц.</td>
+    <td>
+Интернет-сервисы, Стриминговый сервис</td>
     <td>Python, Pandas, Numpy</td>
   </tr>
 </table>
