@@ -1,8 +1,8 @@
 <center><h1>Yandex.Praktikum Data Science Projects</h1></center>
 <a href="https://praktikum.yandex.ru/"><img width=100% src="https://miro.medium.com/max/1400/0*uVP0WwEWOtpHs40E.png"></a><br><br>
 <p align=center>
-Repository containing portfolio of data science projects completed by <a href="https://spb.hh.ru/resume/3d1dfa28ff0879405c0039ed1f455a46505070">Denis Chemodanov</a> during the training courses at <a href="https://praktikum.yandex.ru/">Yandex.Praktikum</a><br>
-Presented in the form of iPython Notebooks and readme markdown files. <br>
+Данный репозиторий содержит проекты выполненные в ходе прохождения курса по Date Science  на <a href="https://praktikum.yandex.ru/">Яндекс.Практикум</a><br>
+Проекты представлены в формате iPython Notebooks и readme markdown. <br>
 <br>
 <br>
 
@@ -11,13 +11,13 @@ Presented in the form of iPython Notebooks and readme markdown files. <br>
     <td width=25%>Проект</td>
     <td>Описание проекта</td>
     <td width=20%>Сферы деятельности</td>
-    <td width=20%>Используемые библиотеке</td>
+    <td width=20%>Используемые библиотеки</td>
   </tr>
         <tr>
     <td><a href="здесь будет выпускной проект"> тема не выбрана </a></td>
     <td>описание.</td>
     <td>сферы деятельности</td>
-    <td>библиотеке</td>
+    <td>библиотеки</td>
   </tr>
       <tr>
     <td><a href="https://github.com/Eselsmesse/Yandex-stady-projects/tree/master/12%20-%20Age_prediction_with_computer_vision">Age recognition by photo</a></td>
