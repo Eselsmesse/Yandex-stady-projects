@@ -117,4 +117,3 @@
 </table>
 
 <br>
-<i> Please don't plagiarize any of my projects — it won't help you in the long run!<i>
