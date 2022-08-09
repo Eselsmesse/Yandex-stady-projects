@@ -12,7 +12,7 @@ Presented in the form of iPython Notebooks and readme markdown files. <br>
     <td>Description</td>
     <td width=20%>Applications</td>
     <td width=20%>Used libraries</td>
-    <td width=20%>Status</td>
+    <td width=10%>Status</td>
   </tr>
         <tr>
     <td><a href="здесь будет выпускной проект"> тема не выбрана </a></td>
