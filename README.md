@@ -8,7 +8,7 @@ Presented in the form of iPython Notebooks and readme markdown files. <br>
 
 <table width=100% valign=top >
   <tr>
-    <td width=25%>Project</td>
+    <td width=23%>Project</td>
     <td>Description</td>
     <td width=20%>Applications</td>
     <td width=20%>Used libraries</td>
