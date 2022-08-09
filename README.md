@@ -5,7 +5,7 @@
 Проекты представлены в формате iPython Notebooks и readme markdown. <br>
 <br>
 <br>
-<span style="color:blue">some *blue* text</span>
+<p>Some Markdown text with <span style="color:blue">some <em>blue</em> text</span>.</p>
 <table width=100% valign=top >
   <tr>
     <td width=25%>Project</td>
