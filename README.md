@@ -5,28 +5,28 @@
 Проекты представлены в формате iPython Notebooks и readme markdown. <br>
 <br>
 <br>
-
+<span style="color:blue">some *blue* text</span>
 <table width=100% valign=top >
   <tr>
-    <td width=25%>Проект</td>
-    <td>Описание проекта</td>
-    <td width=20%>Сферы деятельности</td>
-    <td width=20%>Используемые библиотеки</td>
-    <td width=20%>Статус проекта</td>
+    <td width=25%>Project</td>
+    <td>Description</td>
+    <td width=20%>Applications</td>
+    <td width=20%>Used libraries</td>
+    <td width=20%>Status</td>
   </tr>
         <tr>
     <td><a href="здесь будет выпускной проект"> тема не выбрана </a></td>
     <td>описание</td>
     <td>сферы деятельности</td>
     <td>библиотеки</td>
-    <td>В процессе</td>
+    <td>In progress</td>
   </tr>
       <tr>
     <td><a href="https://github.com/Eselsmesse/Yandex-stady-projects/tree/master/12%20-%20Age_prediction_with_computer_vision">Age recognition by photo</a></td>
     <td>Определение возраста по фотографии.</td>
     <td>Бизнес, Оффлайн</td>
     <td>Pandas, keras, Matplotlib, Seaborn, Computer Vision, Machine Learning</td>
-    <td>Завершен</td>
+    <td>complited</td>
   </tr>
   <tr>
     <td><a href="https://github.com/Eselsmesse/Yandex-stady-projects/tree/master/11%20-%20toxic_comments_classifier">Classifying toxic comments</a></td>
