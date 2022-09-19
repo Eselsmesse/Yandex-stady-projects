@@ -15,10 +15,10 @@ Presented in the form of iPython Notebooks and readme markdown files. <br>
     <td width=12%>Status</td>
   </tr>
         <tr>
-    <td><a href="здесь будет выпускной проект"> тема не выбрана </a></td>
-    <td>Description</td>
-    <td>Applications</td>
-    <td>Used libraries</td>
+    <td><a href="https://github.com/Eselsmesse/Yandex-stady-projects/tree/master/final%20project%20-%20steel_temperature_prediction">Steel temperature prediction </a></td>
+    <td>In order to optimize production costs, the steelworks of So Hardening Steel Ltd. decided to reduce the electricity consumption during the steel processing phase. You will have to build a model that predicts the temperature of the steel.</td>
+    <td>Metallurgical industry</td>
+    <td>Pandas, Matplotlib, Seaborn, exploratory data analysis, data visualization, data preprocessing, math, machine learning, gradient boosting, numpy</td>
     <td>In progress</td>
   </tr>
       <tr>
