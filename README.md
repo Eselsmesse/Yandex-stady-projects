@@ -10,7 +10,7 @@ Presented in the form of iPython Notebooks and readme markdown files. <br>
   <tr>
     <td width=23%>Project</td>
     <td>Description</td>
-    <td width=20%>Applications</td>
+    <td width=15%>Applications</td>
     <td width=20%>Used libraries</td>
     <td width=12%>Status</td>
   </tr>
