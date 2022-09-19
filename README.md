@@ -19,7 +19,7 @@ Presented in the form of iPython Notebooks and readme markdown files. <br>
     <td>In order to optimize production costs, the steelworks of So Hardening Steel Ltd. decided to reduce the electricity consumption during the steel processing phase. You will have to build a model that predicts the temperature of the steel.</td>
     <td>Metallurgical industry</td>
     <td>Pandas, Matplotlib, Seaborn, exploratory data analysis, data visualization, data preprocessing, math, machine learning, gradient boosting, numpy</td>
-    <td>In progress</td>
+    <td>Complited</td>
   </tr>
       <tr>
     <td><a href="https://github.com/Eselsmesse/Yandex-stady-projects/tree/master/12%20-%20Age_prediction_with_computer_vision">Age recognition by photo</a></td>
