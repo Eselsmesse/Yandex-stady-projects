@@ -4,7 +4,7 @@
 Repository containing portfolio of data science projects from <a href="https://praktikum.yandex.ru/">Yandex.Practicun</a><br>
 Presented in the form of iPython Notebooks and readme markdown files. <br>
   
-  <a href="https://github.com/Eselsmesse/My_certificate/blob/main/Chemodanov%20Denis_20222%D0%A6%D0%9F%D0%94%D0%A100501.pdf">Certificate</a> 
+  <a href="https://github.com/Eselsmesse/My_certificate/blob/main/Chemodanov%20Denis_20222%D0%A6%D0%9F%D0%94%D0%A100501.pdf">Certificate</a> <br>
 <br>
 <br>
 
