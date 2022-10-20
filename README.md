@@ -2,9 +2,10 @@
 <a href="https://praktikum.yandex.ru/"><img width=100% src="https://miro.medium.com/max/1400/0*uVP0WwEWOtpHs40E.png"></a><br><br>
 <p align=center>
 Repository containing portfolio of data science projects from <a href="https://praktikum.yandex.ru/">Yandex.Practicun</a><br>
-Presented in the form of iPython Notebooks and readme markdown files. <br>
+Presented in the form of iPython Notebooks and readme markdown files. 
+My <a href="https://github.com/Eselsmesse/My_certificate/blob/main/Chemodanov%20Denis_20222%D0%A6%D0%9F%D0%94%D0%A100501.pdf">Certificate</a><br>
   
-  <a href="https://github.com/Eselsmesse/My_certificate/blob/main/Chemodanov%20Denis_20222%D0%A6%D0%9F%D0%94%D0%A100501.pdf">Certificate</a> <br>
+  
 <br>
 <br>
 
